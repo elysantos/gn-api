@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.gerencianet.gnsdk</groupId>
 	<artifactId>gn-api-sdk-java</artifactId>
-	<version>0.2.7</version>
+	<version>0.2.8</version>
 
 	<name>GN API SDK JAVA</name>
 	<description>Java SDK for integrating with Gerencianet API</description>
-	<url>https://github.com/gerencianet/gn-api-sdk-java</url>
+	<url>https://github.com/elysantos/gn-api</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
